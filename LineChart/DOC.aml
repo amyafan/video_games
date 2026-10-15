@@ -1,0 +1,8 @@
+{.svelte}
+  component: LineChart
+  hed: Daily closing price
+  leadin: May 13, 2013 to May 11, 2018
+  marginBlock: true
+  marginInline: true
+  maxWidth: body
+{}

@@ -1,0 +1,11 @@
+data/*
+AF_log.md
+etl/notebooks/*
+nb_template.ipynb
+script_template.py
+
+._*
+*.DS_Store
+*.gsheet
+
+*/__pycache__/*
